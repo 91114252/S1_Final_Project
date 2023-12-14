@@ -105,6 +105,7 @@ class Main
                 "\nGrowPlant HealthStatus PlantBio Water \nPollinate Harvest Shop endDay \nitems endgame");
         System.out.println("Type in a command: ");
     }
+    //test comment by Rioux
     public static void shop(int money)//shows the shop
     {
         Scanner scan = new Scanner(System.in);
